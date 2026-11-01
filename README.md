@@ -4,6 +4,8 @@ An end-to-end interactive retail analytics solution built in Tableau Desktop and
 
 **[Launch Interactive Tableau Public Dashboard](https://public.tableau.com/app/profile/alejandro.acebedo.ciro/viz/RetailPerformanceAnalyticsForecasting/Retail_Dashboard)**
 
+<img width="1221" height="837" alt="image" src="https://github.com/user-attachments/assets/4c47d585-bd52-42e3-9d2b-b7227634074f" />
+
 ---
 
 ## Executive Summary & Key Business Insights
